@@ -1,14 +1,25 @@
 body {
     background: white;
-    color: black;
-    font-size: 35em
+    color: rgb(8, 8, 8);
+    font-size: 175%;
     font-family: 'Eczar', serif;
 }
 nav{
     font-family: 'Do Hyeon', sans-serif;
-    font-size: 250%
+    font-size: 35px;
 }
 .kevin {
     width: 270px;
     height: 350px;
+}
+.seyani{
+    width:270px;
+    height: 350px;
+}
+a {
+    color: rgb(0, 0, 0);
+}
+
+a:hover {
+    color: rgb(28, 101, 236);
 }
