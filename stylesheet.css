@@ -1,0 +1,14 @@
+body {
+    background: white;
+    color: black;
+    font-size: 35em
+    font-family: 'Eczar', serif;
+}
+nav{
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 250%
+}
+.kevin {
+    width: 270px;
+    height: 350px;
+}
