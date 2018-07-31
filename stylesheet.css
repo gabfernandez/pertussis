@@ -5,7 +5,7 @@ body {
     font-family: 'Neuton', serif;
 }
 nav{
-    font-family: 'Do Hyeon', sans-serif;
+    font-family: 'Anton', sans-serif;
     font-size: 35px;
 }
 .kevin {
@@ -21,5 +21,5 @@ a {
 }
 
 a:hover {
-    color: rgb(28, 101, 236);
+    color: rgb(19, 55, 122);
 }
