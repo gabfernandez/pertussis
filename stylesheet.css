@@ -11,8 +11,22 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 75%;
+    width: 100%;
+   height: 300px; 
+}
+.pertban{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
    height: 270px; 
+}
+.kids{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+   height: 250px; 
 }
 
 .kevin {
