@@ -139,3 +139,10 @@ body {
 .dropdown:hover .dropdown-content {
     display: block;
 }
+@media all and (orientation: portrait) and (max-width: 325px){
+    #faded {
+         animation-name: appear;
+         animation-duration: 6s;
+         width: 100%;
+     }
+    }
